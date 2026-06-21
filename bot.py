@@ -23,7 +23,7 @@ except ImportError:
 # ==================== НАСТРОЙКИ ====================
 BOT_TOKEN = "8865091811:AAEmyhomnMKsytMnatDMHQEggEQh1rZNI50"   # ← СЮДА ВСТАВЬТЕ ТОКЕН
 
-USE_TOR = True                      # True = получать ключ через Tor
+USE_TOR = False                     # True = получать ключ через Tor
 USE_PROXY_FOR_TELEGRAM = True       # True = использовать прокси для Telegram
 TOR_TIMEOUT = 60                    # Таймаут Tor в секундах
 
