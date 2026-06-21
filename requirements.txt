@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+requests==2.31.0
+beautifulsoup4==4.12.2
+cloudscraper==1.2.71
+tor-native-requests[requests]
+httpx[socks]
